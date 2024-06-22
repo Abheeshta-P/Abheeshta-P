@@ -51,8 +51,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abheeshta-P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-<img align="middle" height="180em" src="https://camo.githubusercontent.com/9cc1b32a9cd5e582c83465e073009bb50e20609973c95682ce784251f7ed4183/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e65686172737075746872616e267468656d653d6461726b" alt="Abheeshta P" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Abheeshta-P&amp;theme=dark" style="max-width: 100%;">
 </div>
 
 ###
