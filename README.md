@@ -49,9 +49,8 @@
 ###
 
 <div align="center">
- <img height="180em" src="https://camo.githubusercontent.com/0b8eb5b86c8ee9b0bdd377a6da9e011ce531aae482047e29e929556c794fe8a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e65686172737075746872616e266c61796f75743d636f6d70616374267468656d653d6461726b" alt="Abheeshta-P" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?user=Abheeshta-P&amp;layout=compact&amp;theme=dark" style="max-width: 100%;">
-
-<img height="180em" src="https://camo.githubusercontent.com/8b517712f69b979de7b51f9392353577ade89055d15b17461d293c77b712e5e1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e65686172737075746872616e2673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d6461726b" alt="Abheeshta-P" data-canonical-src="https://github-readme-stats.vercel.app/api?user=Abheeshta-P&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Abheeshta-P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 <img align="middle" height="180em" src="https://camo.githubusercontent.com/9cc1b32a9cd5e582c83465e073009bb50e20609973c95682ce784251f7ed4183/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e65686172737075746872616e267468656d653d6461726b" alt="Abheeshta P" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Abheeshta-P&amp;theme=dark" style="max-width: 100%;">
 </div>
