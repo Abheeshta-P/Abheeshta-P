@@ -9,9 +9,9 @@
 <h3 align="left">👩🏻‍💻About me</h3>
 
 ###
-<div align="center">
+<div style="display:flex; justify-content:center; align-items:center">
 <p>💡 I am tech-curious, always seeking ways to enhance my knowledge.<br>🌱  I'm on track for learning about Web development !<br>⚙️ Currently grinding Javascript<br>✍️  In my free time, I'll be watching some tech videos . <br>🎯 Goals : <br>• To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿<br>• To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫.<br>• To have a solid foundation in 𝗝𝗔𝗩𝗔</p>
-<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Abheeshta coding"></img>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Abheeshta coding"></img>
 </div>
 
 ###
