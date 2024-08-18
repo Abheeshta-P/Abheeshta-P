@@ -73,7 +73,3 @@
 </div>
 
 ###
-
-<h3 align="center">![](https://komarev.com/ghpvc/?username=Abheeshta-P)</h3>
-
-###
