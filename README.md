@@ -29,12 +29,10 @@
 
 ###
 
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  ###
-
-<div align="left">
-<h3 align="left">💻 Skill set</h3>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3 align="left">💻 Skill Set</h3>
+    <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -77,6 +75,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
+    </div>
+  </div>
+  <div style="flex: 1;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  </div>
 </div>
 
 ###
