@@ -9,7 +9,17 @@
 <h3 align="left">👩🏻‍💻About me</h3>
 
 ###
-<p align="left">💡 I am tech-curious, always seeking ways to enhance my knowledge.<br>🌱  I'm on track for learning about Web development !<br>⚙️ Currently grinding Javascript<br>✍️  In my free time, I'll be watching some tech videos . <br>🎯 Goals : <br>• To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿<br>• Yet another **MERN** enthusiast <br>• To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫.<br>• To have a solid foundation in 𝗝𝗔𝗩𝗔</p>
+<p align="left">
+  💡 I am tech-curious, always seeking ways to enhance my knowledge. <br>
+  🌱 Currently diving deep into Full Stack Web Development.<br>
+  ⚙️ Sharpening my skills in JavaScript — grinding hard!<br>
+  ✍️ In my free time, you’ll find me binge-watching tech content.<br>
+  🎯 My Goals:<br>
+  • To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀<br>
+  • Feel at ease with the 𝗠𝗘𝗥𝗡 stack 💻<br>
+  • To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻 🎨<br>
+  • To have a solid foundation in 𝗝𝗔𝗩𝗔 ☕<br>
+</p>
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/b9/8f/b1/b98fb1cb16fc0dfe8a15f0a3d018552e.gif"  />
 
@@ -32,6 +42,7 @@
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
