@@ -10,8 +10,6 @@
 
 ###
 <p align="left">💡 I am tech-curious, always seeking ways to enhance my knowledge.<br>🌱  I'm on track for learning about Web development !<br>⚙️ Currently grinding Javascript<br>✍️  In my free time, I'll be watching some tech videos . <br>🎯 Goals : <br>• To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿<br>• To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫.<br>• To have a solid foundation in 𝗝𝗔𝗩𝗔</p>
-<p align="right">![image](https://github.com/user-attachments/assets/ab5b2fc1-b58a-48b6-ae79-83891349fe53)</p>
-
 
 ###
 
