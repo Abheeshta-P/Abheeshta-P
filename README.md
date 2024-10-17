@@ -6,33 +6,27 @@
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h3 align="left">👩🏻‍💻 About me</h3>
-    <p align="left">
-      💡 I am tech-curious, always seeking ways to enhance my knowledge.<br>
-      🌱 Currently diving deep into Full Stack Web Development.<br>
-      ⚙️ Sharpening my skills in JavaScript — grinding hard!<br>
-      ✍️ In my free time, you’ll find me binge-watching tech content.<br>
-      🎯 My Goals:<br>
-      • To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀<br>
-      • Feel at ease with the 𝗠𝗘𝗥𝗡 stack 💻<br>
-      • To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻 🎨<br>
-      • To have a solid foundation in 𝗝𝗔𝗩𝗔 ☕<br>
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img align="right" height="200" src="https://i.pinimg.com/originals/b9/8f/b1/b98fb1cb16fc0dfe8a15f0a3d018552e.gif" />
-  </div>
-</div>
+<h3 align="left">👩🏻‍💻About me</h3>
 
+###
+<p align="left">
+  💡 I am tech-curious, always seeking ways to enhance my knowledge. <br>
+  🌱 Currently diving deep into Full Stack Web Development.<br>
+  ⚙️ Sharpening my skills in JavaScript — grinding hard!<br>
+  ✍️ In my free time, you’ll find me binge-watching tech content.<br>
+  🎯 My Goals:<br>
+  • To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀<br>
+  • Feel at ease with the 𝗠𝗘𝗥𝗡 stack 💻<br>
+  • To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻 🎨<br>
+  • To have a solid foundation in 𝗝𝗔𝗩𝗔 ☕<br>
+</p>
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/b9/8f/b1/b98fb1cb16fc0dfe8a15f0a3d018552e.gif"  />
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h3 align="left">💻 Skill Set</h3>
-    <div align="left">
+<div align="left">
+<h3 align="left">💻 Skill set</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -75,11 +69,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-    </div>
-  </div>
-  <div style="flex: 1;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
 </div>
 
 ###
@@ -90,7 +79,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abheeshta-P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abheeshta-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abheeshta-P&theme=dark&hide_border=false" alt="GitHub Streak"/><br/> -->
 </div>
 
