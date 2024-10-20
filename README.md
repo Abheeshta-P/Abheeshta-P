@@ -21,11 +21,9 @@
   • To have a solid foundation in 𝗝𝗔𝗩𝗔 ☕<br>
 </p>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/b9/8f/b1/b98fb1cb16fc0dfe8a15f0a3d018552e.gif"  />
-
 ###
 
-<div align="left">
+<div>
 <h3 align="left">💻 Skill set</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
