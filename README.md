@@ -12,7 +12,7 @@
 <p align="left">
   💡 I am tech-curious, always seeking ways to enhance my knowledge. <br>
   🌱 Currently diving deep into Full Stack Web Development.<br>
-  ⚙️ Sharpening my skills in JavaScript — grinding hard!<br>
+  ⚙️ Sharpening my skills in TypeScript — grinding hard!<br>
   ✍️ In my free time, you’ll find me binge-watching tech content.<br>
   🎯 My Goals:<br>
   • To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀<br>
