@@ -92,8 +92,6 @@
 
 <h3 align="left">🤝🏻 Connect with Me</h3>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/abheeshta-p-cse26" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -112,4 +110,5 @@
   </a>
 </div>
 
+###
 [![An image of @abheeshta-p's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abheeshtap)](https://www.holopin.io/@abheeshtap)
