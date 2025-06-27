@@ -111,3 +111,5 @@
     <img src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" width="52" height="50" alt="hash node logo"/>
   </a>
 </div>
+
+[![An image of @abheeshta-p's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abheeshtap)](https://www.holopin.io/@abheeshtap)
