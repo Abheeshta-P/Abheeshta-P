@@ -53,10 +53,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
   <img width="12" />
