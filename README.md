@@ -23,49 +23,53 @@
 
 ### 💻 My Skill Set
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+
+ <div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" title="JavaScript"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="Appwrite" title="Appwrite"/>
+  <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="Appwrite" title="Appwrite"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" title="Redux"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" title="TypeScript"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap"/>
+</div>
 
 
 
@@ -80,17 +84,17 @@
 ### 🤝🏻 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/abheeshta-p-cse26" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/abheeshta-p" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="mailto:abheeshta.p@gmail.com" target="_blank" title="Send me an email">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="Gmail logo" />
   </a>
   <a href="https://dev.to/abheeshta" target="_blank" title="Read my articles on Dev.to">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="Dev.to logo" />
+    <img src="https://skillicons.dev/icons?i=devto" width="52" height="40" alt="Dev.to logo" />
   </a>
   <a href="https://hashnode.com/@abheeshta" target="_blank" title="Check out my blog on Hashnode">
-    <img src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" width="52" height="50" alt="Hashnode logo"/>
+    <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="52" height="40" alt="Hashnode logo"/>
   </a>
 </div>
 
