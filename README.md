@@ -12,13 +12,14 @@
 <p align="left">
   💡 I am tech-curious, always seeking ways to enhance my knowledge. <br>
   🌱 Currently diving deep into Full Stack Web Development.<br>
-  ⚙️ Sharpening my skills in TypeScript — grinding hard!<br>
+  ⚙️ Sharpening my skills in Spring Boot and TypeScript — grinding hard!<br>
   ✍️ In my free time, you’ll find me binge-watching tech content.<br>
   🎯 My Goals:<br>
-  • To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀<br>
+  • To be a most wanted 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 focused 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀<br>
   • Feel at ease with the 𝗠𝗘𝗥𝗡 stack 💻<br>
   • To acquire a sound knowledge of 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻 🎨<br>
   • To have a solid foundation in 𝗝𝗔𝗩𝗔 ☕<br>
+  🌐 Check out my <a href="https://abheeshta-p.vercel.app/" target="_blank"><b>Portfolio</b></a>
 </p>
 
 ### 💻 My Skill Set
@@ -91,6 +92,9 @@
   <a href="mailto:abheeshta.p@gmail.com" target="_blank" title="Send me an email">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="Gmail logo" />
   </a>
+  <a href="https://leetcode.com/u/Abheeshta_P/" target="_blank" title="Solve problems with me on LeetCode">
+      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="40" alt="LeetCode logo"/>
+    </a>
   <a href="https://dev.to/abheeshta" target="_blank" title="Read my articles on Dev.to">
     <img src="https://skillicons.dev/icons?i=devto" width="52" height="40" alt="Dev.to logo" />
   </a>
