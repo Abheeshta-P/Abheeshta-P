@@ -65,14 +65,6 @@ I enjoy translating ideas into usable products while gradually strengthening my 
 - Exploring AI-assisted workflows and interaction systems
 - Improving architecture and debugging skills through real-world projects
 
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abheeshta-P/Abheeshta-P/languages-output/languages.svg" height="100" alt="languages graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Abheeshta-P/Abheeshta-P/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
 ## Connect
 <div align="center">
 
