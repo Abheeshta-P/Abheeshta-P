@@ -11,14 +11,14 @@
 
   <td width="420" valign="middle">
 
-<p align="left">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=FFFFFF&center=false&vCenter=true&width=420&lines=Abheeshta+P"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=Abheeshta+P"
     alt="Name"
   />
 </p>
 
-<p align="left">
+<p align="center">
   Product-Oriented Full Stack Developer <br /><br />
   Building interactive systems, thoughtful user experiences,
   and developer-focused tools.
